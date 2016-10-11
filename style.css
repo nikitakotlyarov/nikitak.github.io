@@ -1,0 +1,19 @@
+html,body {
+	height:100%:
+}
+
+h1,h2,h3,h4,h5,h6, p{
+	margin-bottom:20px;
+}
+nav{
+	height:50px;
+	background-color:#3F444E;
+}
+.sect{
+	height:100%;
+	background-color:aqua;
+	}
+.subSection {
+	height:50%;
+	background-color:bisque;
+}
